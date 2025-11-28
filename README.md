@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushSoni/AyushSoni/main/banner.png" width="100%" alt="Ayush Soni Banner"/>
+  <img src="https://github.com/AyushSoni-09/AyushSoni/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Soni</h1>
@@ -14,8 +14,8 @@
 - 💼 Currently pursuing **CDAC (DAC)** at Bengaluru  
 - 🧠 Strong in **Python, ML, DL, SQL & Full Stack Development**  
 - 🔭 Working on: **Hybrid Supplier Selection System**, **Real-Time Sign Language Recognition**, **Movie Recommendation System**  
-- 💬 Ask me about **Python · ML · SQL · React · Django · Deep Learning**  
-- 📫 Reach me at **ayushsoni@gmail.com**  
+- 💬 Ask me about **Python · ML · SQL · React · Django · Deep Learning . React . Express . MySql . Node**  
+- 📫 Reach me at **ayushsoni1004@gmail.com**  
 - ⚡ Fun Fact: *If coding had calories, I’d be in shape.* 😄  
 
 ---
@@ -23,9 +23,9 @@
 ## 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://linkedin.com/in/ayushsoni" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50px"></a>
+<a href="https://www.linkedin.com/in/ayusoni/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50px"></a>
 <a href="https://instagram.com/ayush_soni" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50px"></a>
-<a href="mailto:ayushsoni@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50px"></a>
+<a href="mailto:ayushsoni1004@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50px"></a>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongoDB" />
 </p>
 
 ### **Tools & Cloud**
@@ -101,14 +101,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyushSoni&theme=radical" />
 </p>
-
----
-
-## 🧠 Fun Coding GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
 ---
 
 ## 💬 Quote for the Day  
